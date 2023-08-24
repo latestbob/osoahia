@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218620413078",
+    "project_id": "osoahia-a08ef",
+    "storage_bucket": "osoahia-a08ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218620413078:android:28f6809bffb11e69abeeb7",
+        "android_client_info": {
+          "package_name": "com.example.osaohia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218620413078-uf8hg805j6kujdum6cvpl8dp91ejnmvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJKYKr5a8xGJCIx4A3gEk95bSGMqHysc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218620413078-uf8hg805j6kujdum6cvpl8dp91ejnmvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
