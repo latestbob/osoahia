@@ -207,6 +207,7 @@ class _NewProductsState extends State<NewProducts> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
+                        //this is a commit
                         Text(
                           "ADD IMAGE",
                           style: GoogleFonts.montserrat(
